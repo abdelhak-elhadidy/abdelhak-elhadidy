@@ -30,7 +30,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
 <!--  -->
 ### :man_technologist: About Me :
 
@@ -44,15 +43,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: **amsm.offical@gmail.com**
 
-
 ![Logo](https://avatars.githubusercontent.com/u/127082563?s=64&v=4)
-
 
 ## 🚀 About Me
 Full Name : apdelhak tarek apdelhak metwally elhadidy
 
 I'm a full stack developer...
-
 
 ## 🛠 Skills
 - Computer Science degree or similar technical degree or postgraduate study. 
