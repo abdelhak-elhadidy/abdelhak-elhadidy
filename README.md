@@ -46,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Logo](https://avatars.githubusercontent.com/u/127082563?s=64&v=4)
 
 ## 🚀 About Me
-Full Name : apdelhak tarek apdelhak metwally elhadidy
+Full Name : Abdelhak Tarek Abdelhak Metwally Elhadidy
 
 I'm a full stack developer...
 
