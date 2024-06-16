@@ -5,7 +5,29 @@
 
 - 💬 Ask me about **Golang**
 
-- 📫 How to reach me **amsm.offical@gmail.com**
+- 👨‍💻 About Me :
+
+- Full Name : Abdelhak Tarek Abdelhak Metwally Elhadidy
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend web applications.
+
+- 🌱 Exploring Technical Content Writing.
+
+- 📫How to reach me: amsm.offical@gmail.com
+
+- 🛠 Skills
+- - Computer Science degree or similar technical degree or postgraduate study.
+- - 1+ years of commercial experience as a Software Development Engineer
+- - 1+ years of programming experience with JavaScript and/or TypeScript
+- - 2+ years of programming experience with Golang
+- - 1+ years of programming experience with PHP
+- - Knowledge of HTML5, CSS3 and its preprocessors (Sass or Less).
+- - Familiar with one or more modern JavaScript front-end frameworks such as React, Next.js.
+- - Strong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design.
+- - Experience in using a REST API from the client-side.
+- - Knowledge of analytics platforms such as Amplitude and other pixel based analytics solutions
+- - A strong self-starter, operationally-focused; a problem-solver
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
