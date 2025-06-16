@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelhak Elhadidy</h1>
-<h3 align="center">I'm a full stack developer from egypt</h3>
+<h3 align="center">I'm a Golang developer from egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelhak-elhadidy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhak-elhadidy" /> </p>
 
@@ -16,16 +16,14 @@
 - 📫How to reach me: amsm.offical@gmail.com
 
 - 🛠 Skills
-- - Computer Science degree or similar technical degree or postgraduate study.
-- - 1+ years of commercial experience as a Software Development Engineer
+- - Artifitial Intelligence degree or similar technical degree or postgraduate study.
+- - 2+ years of commercial experience as a Software Development Engineer
 - - 1+ years of programming experience with JavaScript and/or TypeScript
 - - 2+ years of programming experience with Golang
-- - 1+ years of programming experience with PHP
 - - Knowledge of HTML5, CSS3 and its preprocessors (Sass or Less).
 - - Familiar with one or more modern JavaScript front-end frameworks such as React, Next.js.
 - - Strong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design.
 - - Experience in using a REST API from the client-side.
-- - Knowledge of analytics platforms such as Amplitude and other pixel based analytics solutions
 - - A strong self-starter, operationally-focused; a problem-solver
 
 
