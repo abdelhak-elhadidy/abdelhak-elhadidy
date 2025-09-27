@@ -13,7 +13,7 @@
 
 - 🌱 Exploring Technical Content Writing.
 
-- 📫How to reach me: amsm.offical@gmail.com
+- 📫How to reach me: eng.abdelhak.elhadidy@gmail.com
 
 - 🛠 Skills
 - - Artifitial Intelligence degree or similar technical degree or postgraduate study.
